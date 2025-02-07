@@ -1,8 +1,8 @@
 # Control-Catagories
 
-## Control categories
 
-Control categories
+
+
 Controls within cybersecurity are grouped into three main categories:
 <br><br>
 - **Administrative/Managerial controls**
