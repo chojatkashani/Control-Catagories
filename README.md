@@ -1,4 +1,4 @@
-# Network-Catagories
+# Control-Catagories
 
 ## Control categories
 
